@@ -30,12 +30,15 @@ ansible-playbook nginx.yml
 
 ## Проверка балансировщика
 ### Всё работает и достойно зачета
-![всё прекрасно]
+![Снимок экрана от 2022-04-06 21-30-58](https://user-images.githubusercontent.com/89969340/162179915-a8d654a1-883c-45f1-9b5d-1aa2c02be7fc.png)
+
 
 
 ## Проверка отказоустойчивости(дадада)
 ### Отключен haproxy1
-![отключен haproxy1]
+![Снимок экрана от 2022-04-06 21-23-24](https://user-images.githubusercontent.com/89969340/162179964-6d705abe-25e8-41c1-8e29-d4d5ca38dd12.png)
+
 
 ### Отключен haproxy2
-![отключен haproxy2]
+![Снимок экрана от 2022-04-06 21-24-32](https://user-images.githubusercontent.com/89969340/162180011-1428f961-0385-4426-8980-84bdb8cf6a8f.png)
+![Снимок экрана от 2022-04-06 21-26-08](https://user-images.githubusercontent.com/89969340/162180051-e4b4fc59-a656-46b3-a3c4-78446ca8483e.png)
